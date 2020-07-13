@@ -1,0 +1,12 @@
+name: FeelingLucky
+title: FeelingLucky
+username:
+account: bfernandez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2566183
+bundleId: 3386462
+url: https://bfernandez.shinyapps.io/FeelingLucky/
+when: 1594653628.19437
+asMultiple: FALSE
+asStatic: FALSE
